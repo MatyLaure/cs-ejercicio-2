@@ -1,0 +1,15 @@
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\bin\Debug\net6.0\Ejercicio 3 de 2.exe
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\bin\Debug\net6.0\Ejercicio 3 de 2.deps.json
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\bin\Debug\net6.0\Ejercicio 3 de 2.runtimeconfig.json
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\bin\Debug\net6.0\Ejercicio 3 de 2.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\bin\Debug\net6.0\Ejercicio 3 de 2.pdb
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\obj\Debug\net6.0\Ejercicio 3 de 2.csproj.AssemblyReference.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\obj\Debug\net6.0\Ejercicio 3 de 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\obj\Debug\net6.0\Ejercicio 3 de 2.AssemblyInfoInputs.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\obj\Debug\net6.0\Ejercicio 3 de 2.AssemblyInfo.cs
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\obj\Debug\net6.0\Ejercicio 3 de 2.csproj.CoreCompileInputs.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\obj\Debug\net6.0\Ejercicio 3 de 2.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\obj\Debug\net6.0\refint\Ejercicio 3 de 2.dll
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\obj\Debug\net6.0\Ejercicio 3 de 2.pdb
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\obj\Debug\net6.0\Ejercicio 3 de 2.genruntimeconfig.cache
+C:\Users\BIGBANG-SOLUCIONES\Escritorio\C#\Ejercicio 3 de 2\obj\Debug\net6.0\ref\Ejercicio 3 de 2.dll
